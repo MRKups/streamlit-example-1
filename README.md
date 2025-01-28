@@ -5,5 +5,6 @@ A small Streamlit application. It gives you a user interface to:
 * Submit a chat query
 * Submit a document for review
 
-Screenshot:
-![Screenshot of running application](/streamlit-example-1.png)
+Screenshots:
+![Screenshot of running application](https://github.com/MRKups/streamlit-example-1/blob/main/streamlit-example-1-ui1.png)
+![Screenshot of running application](https://github.com/MRKups/streamlit-example-1/blob/main/streamlit-example-1-ui2.png)
